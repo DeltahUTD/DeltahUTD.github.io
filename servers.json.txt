@@ -52,6 +52,6 @@
   "cache": "https://servers.sidestore.io/servers.json.hash"
 },
 {
-    "name": DeltahUTD",
+    "name": "DeltahUTD",
     "address": "https://anisette-v3-server-ixb5.onrender.com"
 }
